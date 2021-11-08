@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Q1 {
     public static void main(String[] args) {
+        
 //        Write a program to print whether a number is even or odd, also take input.
 
 
