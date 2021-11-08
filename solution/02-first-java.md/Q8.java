@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class IsPalindrome {
     public static void main(String[] args) {
+        
+//         To find out whether the given String is Palindrome or not.
+
         String str, rev = "";
         Scanner sc = new Scanner(System.in);
 
